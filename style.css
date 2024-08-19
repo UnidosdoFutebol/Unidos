@@ -38,8 +38,13 @@ nav ul li a {
 .hero {
     padding: 50px;
     text-align: center;
-    background-color: rgba(255, 0, 0, 0.7);
+    background-image: url('assets/images/time.jpg'); /* Atualize o caminho da imagem conforme necessário */
+    background-size: cover; /* Faz com que a imagem cubra toda a área disponível */
+    background-position: center; /* Centraliza a imagem */
+    background-repeat: no-repeat; /* Evita que a imagem se repita */
+    background-color: rgba(255, 0, 0, 0.7); /* Cor de fundo vermelha com opacidade para sobrepor a imagem */
 }
+
 
 .hero h2 {
     font-size: 2.5em;
