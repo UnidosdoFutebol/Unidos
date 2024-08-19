@@ -38,7 +38,7 @@ nav ul li a {
 .hero {
     padding: 50px;
     text-align: center;
-    background-image: url('assets/images/time.jpg'); /* Atualize o caminho da imagem conforme necessário */
+    background-image: url('assets/images/im.jpg.png'); /* Atualize o caminho da imagem conforme necessário */
     background-size: cover; /* Faz com que a imagem cubra toda a área disponível */
     background-position: center; /* Centraliza a imagem */
     background-repeat: no-repeat; /* Evita que a imagem se repita */
